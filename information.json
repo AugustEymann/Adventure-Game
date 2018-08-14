@@ -1,0 +1,38 @@
+{
+    "Towns": [
+        "Charlesville",
+        "Santa Cruz",
+        "Minetown",
+        "Teloma",
+        "Bear Creek",
+        "Monterery"
+    ],
+    "Humans": {
+        "Female": [
+            "Emily",
+            "Madison",
+            "Emma",
+            "Hannah",
+            "Olivia",
+            "Abigail",
+            "Isabella",
+            "Ashley"
+        ],
+        "Male":[
+            "Johnathon",
+            "Cameron",
+            "Jordan",
+            "Michael",
+            "Ferris",
+            "Collin",
+            "Noah",
+            "Liam",
+            "William",
+            "Benjamin",
+            "Jacob",
+            "Elijah", 
+            "Ethan",
+            "Alexander"
+        ]
+    } 
+}
