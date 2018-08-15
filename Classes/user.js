@@ -1,6 +1,6 @@
 function User(name) {
     //Instance Variables
-    this.name = null;
+    this.name = name;
     this.health = 100;
     this.level = 0;
     this.damage = null;
